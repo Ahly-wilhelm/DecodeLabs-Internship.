@@ -1,19 +1,5 @@
 # E-Commerce Orders Data Analysis
 
-## Project Overview
-
-This project analyzes an e-commerce orders dataset containing **1,200 customer orders**. The analysis explores order status distribution, revenue performance, product performance, referral sources, payment methods, seasonal sales trends, coupon impact, and high-value outliers.
-
-The workbook was structured into five main sections:
-
-- **Raw Data** – original order-level dataset
-- **Basic Statistics** – summary statistics for numerical variables
-- **Trends Analysis** – monthly order and revenue patterns
-- **Outliers** – high-value order detection using the IQR method
-- **Summary** – key findings and business insights
-
----
-
 ## Dataset Description
 
 The dataset contains order records with the following variables:
