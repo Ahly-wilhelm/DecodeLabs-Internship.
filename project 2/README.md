@@ -201,16 +201,3 @@ This suggests that coupon usage did not reduce basket size. Instead, coupons may
 
 ---
 
-## How to Use This Project
-
-1. Download or clone the repository.
-2. Open the Excel workbook named `Decode_Project 2.xlsx`.
-3. Review the `Raw Data` sheet to understand the original dataset.
-4. Review the analysis sheets for statistics, trends, outliers, and summary insights.
-5. Use the findings to understand e-commerce sales performance and customer behavior.
-
----
-
-## Conclusion
-
-This project shows how Excel can be used to analyze e-commerce order data and generate meaningful business insights. The analysis highlights revenue performance, product trends, customer payment behavior, referral source effectiveness, seasonal demand patterns, and potential operational issues such as cancellations and returns.
